@@ -1,0 +1,26 @@
+ody {
+background: url('картинки/fon.jpeg') 50% no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+h1{color:#FF8C00; font-size:38px;
+padding:0px 0px 0px 100px;}
+img{padding:0px 0px 0px 150px;}
+b{color:#00FA9A;font-size:28px;}
+p{color: #FF00FF;
+padding:0px 0px 0px 10px;}
+div{color: lime;
+padding:0px 0px 0px 15px;}
+.cvet {color:red;}
+.cvet1 {color:#FF1493;
+ }
+audio{padding-top:15px;
+ }
+ .button {background:#FFFF00;
+}
+.audio {color:#FF1493; font-size:30px;}
+.anketa{font-size:38px;}
+em{color:#FFFFFF;padding:50px;}
+.cvet2{color:#FFFFFF;}
+.cvet3{color:#FFFF00; background-color:#228B22}
+.pol{color:lime;}
